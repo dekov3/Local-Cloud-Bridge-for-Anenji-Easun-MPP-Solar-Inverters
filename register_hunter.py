@@ -4,7 +4,7 @@ import time
 
 # --- CONFIGURATION ---
 BIND_IP = '0.0.0.0'
-PORT = 18899
+PORT = 502
 
 # Range to scan
 START_REG = 0
@@ -98,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
